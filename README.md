@@ -10,8 +10,5 @@
 python sql2java.py {sqlfile.path} {java.pkg.name}
 
 1. 参数sqlfile.path是输入Sql建表语句文件的路径
-2. 参数java.pkg.name是输入生成java文件后的包名，eg:one.yate.test 所有的Pojo文件会生成到当前目录下的src/main/java/one/yate/test/metadata/entity/目录下面
+2. 参数java.pkg.name是输入生成java文件后的包名，eg:one.sunny.test 所有的Pojo文件会生成到当前目录下的src/main/java/one/sunny/test/metadata/entity/目录下面
 
-
-## 注意事项
-没什么特别要注意的本来就打算自己用的^_^b
